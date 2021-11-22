@@ -6,5 +6,6 @@
 ##
 
 Para quem quisar testar o projeto sem ter que executalo pelo eclipse pode baixar a extensão.jar
+Você pode encontrar este arquivo na pasta da agenda onde tem um arquivo com o nome Agenda Star.jar 
 
 ![Nome e icone da imagem](https://user-images.githubusercontent.com/90795502/142729320-f8978a97-b780-48a1-ac53-e055e939ffcf.PNG)
