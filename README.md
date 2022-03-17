@@ -5,14 +5,13 @@
 
 ## Tela de gravar contatos
 ![image](https://user-images.githubusercontent.com/90795502/158676897-1cb697a7-880f-46fe-a2c3-34ecef40d65e.png)
-
-## Tela de contatos gravados
-![image](https://user-images.githubusercontent.com/90795502/158677008-9f28d68e-f969-479f-99b5-189648994f65.png)
 <br> Nesta tela é possivel pesquisar pelo CEP e caso o <br>
 CEP seja verdadeiro ele retornara os dados da cidade, rua, numero e logradouro.
 Tambem se encontra o botão abrir o banco e fechar o banco de dado. 
 <br> Recomendo fecar ele antes de fechar o programa para que não aconteça problema no banco de daods
 
+## Tela de contatos gravados
+![image](https://user-images.githubusercontent.com/90795502/158677008-9f28d68e-f969-479f-99b5-189648994f65.png)
 
 Para quem quisar testar o projeto sem ter que executalo pelo eclipse pode baixar a extensão.jar
 Você pode encontrar este arquivo na pasta da agenda onde tem um arquivo com o nome Agenda Star.jar 
