@@ -19,3 +19,7 @@ Você pode encontrar este arquivo na pasta da agenda onde tem um arquivo com o n
 
 ![Nome e icone da imagem](https://user-images.githubusercontent.com/90795502/142729320-f8978a97-b780-48a1-ac53-e055e939ffcf.PNG)
 <img align="right" alt="Star" src="https://user-images.githubusercontent.com/90795502/142729320-f8978a97-b780-48a1-ac53-e055e939ffcf.PNG">
+
+### A mais uma coisa todos os dados incerido são fiquiticios menos os CEP que são verdadeiors pois vem da API do sistema. 
+caso exista algum numero de telefone ou celular e email pesso desculpas.<br>
+ou alguem pode ter se espirado nestes dados do programa *^-^*
