@@ -8,6 +8,10 @@
 
 ## Tela de contatos gravados
 ![image](https://user-images.githubusercontent.com/90795502/158677008-9f28d68e-f969-479f-99b5-189648994f65.png)
+<br> Nesta tela é possivel pesquisar pelo CEP e caso o <br>
+CEP seja verdadeiro ele retornara os dados da cidade, rua, numero e logradouro.
+Tambem se encontra o botão abrir o banco e fechar o banco de dado. 
+<br> Recomendo fecar ele antes de fechar o programa para que não aconteça problema no banco de daods
 
 
 Para quem quisar testar o projeto sem ter que executalo pelo eclipse pode baixar a extensão.jar
